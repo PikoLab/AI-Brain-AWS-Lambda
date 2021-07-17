@@ -16,4 +16,4 @@ $ sls config credentials --provider aws --key "PUT YOUR KEY" --secret "PUT YOUR 
 $ sls deploy
 ```
 
-4. Fetch AWS Lambda http endpoint and creat front-end feature `./components/Rank/Rank.js`
+4. Fetch AWS Lambda http endpoint and creat front-end feature `./src/components/Rank/Rank.js`
